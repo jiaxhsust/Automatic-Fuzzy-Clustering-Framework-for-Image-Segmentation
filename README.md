@@ -1,0 +1,3 @@
+# Automatic-Fuzzy-Clustering-Framework-for-Image-Segmentation
+We proposed an automatic fuzzy clustering framework (AFCF) for image segmentation which is published in Transactions on Fuzzy Systems, 2020.
+The proposed framework has threefold contributions. Firstly, the idea of superpixel is used for the density peak (DP) algorithm, which efficiently reduces the size of the similarity matrix and thus improves the computational efficiency of the DP algorithm. Secondly, we employ a density balance algorithm to obtain arobust decision-graph that helps the DP algorithm achieve fully automatic clustering. Finally, a fuzzy c-means clustering based on prior entropy is used in the framework to improve image segmentation results.
